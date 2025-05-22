@@ -13,7 +13,7 @@
 
 ## Contents
 
-- **data/**: Directory containing sample data files.
+- **data/**: Directory containing sample data files. Each file is around 10 Mb size.
 - **app.hql**: Hive query scripts for data processing.
 - **app.log**: Log file for tracking the execution of scripts.
 - **cron.sh**: Shell script for scheduling tasks using cron jobs.
